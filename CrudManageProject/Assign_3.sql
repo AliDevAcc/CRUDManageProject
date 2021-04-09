@@ -1,5 +1,3 @@
--- Mange-til-en-til-mange-eksempel forelesning tirsdag 22. mars 2021.
-
 -- MERK!!! DROP SCHEMA ... CASCADE sletter alt !!!
 DROP SCHEMA IF EXISTS Assign_3 CASCADE;
 CREATE SCHEMA Assign_3;
